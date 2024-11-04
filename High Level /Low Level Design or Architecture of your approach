@@ -1,0 +1,17 @@
+High-Level Design (HLD)
+
+Objective: Briefly describe the main purpose and goals of the project or system.
+Architecture Overview: Outline the primary components and the relationships between them (use block diagrams if applicable).
+Key Modules: List major modules and their responsibilities.
+Data Flow: Illustrate how data will travel between components.
+Technology Stack: Specify technologies, frameworks, and tools.
+Non-Functional Requirements: Include scalability, security, reliability, and performance considerations.
+
+Low-Level Design (LLD)
+
+Detailed Module Specifications: Describe each module with input, output, and processing logic.
+Class Diagrams: Define the classes, their properties, methods, and relationships.
+Database Schema: Present tables, fields, relationships, and indexing strategies.
+APIs/Interfaces: List APIs with endpoints, request/response formats, and error handling.
+Error Handling & Logging: Specify error handling and logging for debugging.
+Pseudo Code/Flowcharts: Provide code-like structures for complex algorithms or flows.
